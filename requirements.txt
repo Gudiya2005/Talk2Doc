@@ -1,15 +1,11 @@
-
 gradio
-google-generativeai
-langchain
-langchain-community
+google-generativeai>=0.8.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
 chromadb
-PyPDF2
+pypdf
 python-docx
 sentence-transformers
-numpy
-pandas
-pathlib
-concurrent.futures
-threading
+
 
