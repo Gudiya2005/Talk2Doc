@@ -1,0 +1,15 @@
+
+gradio
+google-generativeai
+langchain
+langchain-community
+chromadb
+PyPDF2
+python-docx
+sentence-transformers
+numpy
+pandas
+pathlib
+concurrent.futures
+threading
+
